@@ -1,0 +1,23 @@
+{
+  "name": "npm-package",
+  "version": "1.0.0",
+  "description": "A Library for LOGs",
+  "main": "src/index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrashantAghara/npm-package.git"
+  },
+  "keywords": [
+    "Console Logging"
+  ],
+  "author": "Prashant Aghara <prashant.aghara2111@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrashantAghara/npm-package/issues"
+  },
+  "homepage": "https://github.com/PrashantAghara/npm-package#readme",
+  "files": [
+    "src/**/*"
+  ]
+}
